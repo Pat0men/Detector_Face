@@ -1,0 +1,11 @@
+opencv-python
+face_recognition
+numpy
+pandas
+pillow
+customtkinter
+python-dateutil
+
+#Cmake .msi (necesario agreagar a PATH)
+#Opcional tkcalendar
+#Opcional openpyxl
